@@ -66,6 +66,11 @@ This model was trained using the Jupyter Notebook script MiniLM-L6-v2-pii-traini
 ## ⚠️ Production Disclaimer
 Please note that automated PII detection is not completely foolproof, and accuracy will vary depending on your specific data context and formatting. We strongly advise thoroughly validating the model on your own data and incorporating human oversight to ensure it meets your intended purpose before any production deployment.
 
+## 📬 Contact
+Please reach out if you have questions or feedback. We also do custom projects, consultating, freelance and collaboration.
+
+**Email:** [thieves@negativestarinnovators.com](mailto:thieves@negativestarinnovators.com)
+
 ## 💖 Support This Project
 If you find this PII detector useful for your projects or business, please support our work!
 
